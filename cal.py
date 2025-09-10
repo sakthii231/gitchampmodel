@@ -3,6 +3,7 @@ def add(a,b):
 def sub(a,b):
     return(a-b)
 def mul(a,b):
+    print(f"multiplying {a} and {b}...")
     return a*b
 
 
